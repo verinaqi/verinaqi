@@ -14,6 +14,11 @@
 - Enabled leadership to make data-driven procurement decisions.
 - Reduced redundant hardware requests by 15% through real-time visual insights.
 
+### ⚙️ Workflow Optimization in ServiceNow (USF)
+- Resolved 100+ IT asset service tickets and redesigned process flows.
+- Reduced average request turnaround time by 20%.
+- Increased service efficiency and accuracy of asset tracking systems.
+
 ### 📊 Cross-Department KPI Tracker (Power BI at Jabil)
 - Automated weekly reports and built real-time KPI dashboards for 8 departments.
 - Saved 10+ hours/week of manual reporting and increased on-time delivery by 25%.
